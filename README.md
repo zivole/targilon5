@@ -8,5 +8,3 @@ https://github.com/zivole/targilon5.git
 ![צילום מסך 2024-06-15 ב-16 38 37](https://github.com/zivole/targilon5/assets/48315677/1cbab7b9-b07d-46b9-bb06-c1f4f6aae54d)
 ![צילום מסך 2024-06-15 ב-16 38 51](https://github.com/zivole/targilon5/assets/48315677/90517348-40da-4d96-9860-0333c4668c3d)
 ![צילום מסך 2024-06-15 ב-16 39 02](https://github.com/zivole/targilon5/assets/48315677/94e58426-8215-4e70-b92b-73cd9dac66d2)
-
-i dont know why, but i cannot open the proof dir, so i hope the screenshots in the README, and the git is ok.
